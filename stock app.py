@@ -4,7 +4,7 @@ import numpy as np
 
 st.title("📈 Stock Price Predictor")
 
-model = joblib.load('stock_model.pkl')
+model = joblib.load('stock_model (3).pkl')
 
 st.markdown("Enter stock indicators below:")
 
