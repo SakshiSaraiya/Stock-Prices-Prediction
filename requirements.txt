@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+openpyxl  # required for reading Excel files
